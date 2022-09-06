@@ -2,7 +2,6 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({ robots = [] }) => {
-  let x = 5
   return (
     <div>
       {
